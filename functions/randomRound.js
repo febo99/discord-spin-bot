@@ -14,6 +14,5 @@ module.exports = {
             send(`<@${member.user.id}> bo za rundo dal!`);
       }
     });
-    message.delete();
   },
 };
